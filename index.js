@@ -1,5 +1,5 @@
 
 function hello1() {
     // hey doh
-    console.log("nid freach wöre");
+    console.log("miauu");
 }
